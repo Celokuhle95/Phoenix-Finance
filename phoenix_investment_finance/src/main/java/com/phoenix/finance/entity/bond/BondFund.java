@@ -2,7 +2,7 @@ package com.phoenix.finance.entity.bond;
 
 public enum BondFund {
 	UNSPECIFIED("Unspecified"), ABSA("Absa (Pty) Ltd"), CAPITEC("Capitec Bank"), FNB(
-			"First National Bank"), STANDARD_BANK("Standard Bank"), NEDBANK("Nedbank");
+			"First National Bank"), STANDARD_BANK("Standard Bank"), NEDBANK("Nedbank"), OLD_MUTUAL("Old Mutual");
 
 	private String bank;
 
